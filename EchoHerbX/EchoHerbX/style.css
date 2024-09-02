@@ -1,0 +1,275 @@
+* {
+  /* height: 100vh; */
+  box-sizing: border-box;
+}
+
+body {
+  width: 1728px;
+  height: 7673px;
+  /* margin-top: -294px;
+    margin-left: -3065px; */
+  gap: 0px;
+  opacity: 0px;
+
+  background-color: #1b2316;
+
+  background-size: contain;
+  gap: 0px;
+  opacity: 0px;
+
+  background-image: url(https://s3-alpha-sig.figma.com/img/fa07/6598/4e44f85e1a04562f820f1492949a1257?Expires=1725840000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UWeCpqEvj0b6R6cmR4JKOh272w7X6vb679NBKrZoPDDbClAjRXTd72N9980BRwiMpHAcZ0NMjhdKlMay3zJLt9WJ5vYCKlfm4K3BWKH3a4SdXyFxOvZw1z9FJDOifNpzE0vACgIf7chIySf3FX6fzNKSTxx1CNiF6CCetf2JkzUPLArOVFwSdmdmCayXdQe6EFT1wLr~RGtDteAPayyboVrjAEoSkq~ArXSFtoxIBdT1~pLuu~u8on-z36zI0WR~4NaHs9K6WpRz4HlwdZePL9SAGoORHWf9eHIWACnzQcEh6mMgbeCT-9PqaiZ-5GHj2xIAkbmRf4MY-ApWICAnHw__);
+
+  background-repeat: no-repeat;
+  /* background-size:  contain; */
+  position: relative;
+  right: 225px;
+  left: -462px;
+
+  text-align: center;
+}
+
+/* .background-img {
+  width: 1728px;
+  height: 2592px;
+} */
+
+/* NavBAR sECTION Stareted here */
+
+.navbar-container {
+  display: flex;
+
+  /* height: 80px; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  width: 195vh;
+  /* height: 80px; */
+  /* margin-top: -8px;
+  margin-left: 452px;
+  gap: 0px;
+  border-radius: 20px 0px 0px 0px;
+  border: 2px 0px 0px 0px;
+  opacity: 0px;
+  border: 2px solid;
+  border: 5px solid red; */
+
+  /* width: 1639px; */
+  height: 80px;
+  margin-top: 20px;
+  margin-left: 471px;
+  gap: 0px;
+  border-radius: 20px;
+  border: 2px;
+  opacity: 0px;
+
+  background: #ffffff0d;
+  border: 2px solid;
+
+  border-image-source: linear-gradient(
+    90.14deg,
+    rgba(255, 255, 255, 0.14) 14.17%,
+    rgba(255, 255, 255, 0) 51.03%,
+    rgba(255, 255, 255, 0.15) 98.87%
+  );
+
+  box-shadow: 0px 18px 22px -6px #00000040;
+}
+
+.navbar-container .logo .planto {
+  color: white;
+
+  width: 99px;
+  height: 34px;
+  /* margin-top: 70px;
+    margin-left: 119px; */
+  gap: 0px;
+  opacity: 0.75px;
+
+  font-family: Inter;
+  font-size: 28px;
+  font-weight: 900;
+  line-height: 33.89px;
+  text-align: left;
+}
+
+.navbar-container .logo img {
+  width: 48px;
+  height: 48px;
+  margin-top: 11px;
+  margin-left: 24px;
+
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 2.32px 1.85px 0px #0000000b;
+
+  box-shadow: 0px 5.39px 4.31px 0px #00000010;
+
+  box-shadow: 0px 9.68px 7.74px 0px #00000014;
+
+  box-shadow: 0px 16.06px 12.85px 0px #00000017;
+
+  box-shadow: 0px 26.45px 21.16px 0px #0000001b;
+
+  box-shadow: 0px 46.23px 36.99px 0px #00000020;
+
+  box-shadow: 0px 100px 80px 0px #0000002b;
+}
+
+.navbar-container .nav-links,
+ul {
+  display: flex;
+  list-style: none;
+  width: 629px;
+  height: 29px;
+  margin-top: 66px;
+  margin-left: 80px;
+  margin: auto auto auto 75px;
+  gap: 48px;
+  opacity: 0.75px;
+}
+
+.navbar-container .nav-links,
+ul,
+li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-container .nav-links,
+ul,
+li,
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-container .search {
+  /* width: 2px;
+    height: 26px;
+    gap: 0px;
+    opacity: 0.75px;
+    position: absolute;
+      left: 20px;  
+    right: 600px;   */
+}
+
+/* Section-1 */
+
+.EchoHerbX,
+h1 {
+  width: 641px;
+  height: 143px;
+  margin-top: 50px;
+  margin-left: 257px;
+  gap: 0px;
+  opacity: 0.75px;
+  color: #ffffff;
+
+  font-family: Inter;
+  font-size: 69px;
+  font-weight: 600;
+  line-height: 142.81px;
+  text-align: left;
+}
+
+.paragraph {
+  width: 676px;
+  height: 56px;
+  margin-top: -35px;
+  margin-left: 519px;
+  gap: 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0.75px;
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24.84px;
+  text-align: left;
+
+  box-shadow: 0px rgba(0, 0, 0, 0.25);
+  border: 0px solid rgba(0, 0, 0, 1);
+}
+
+ 
+ .meets {
+  font-family: Inter;
+  font-size: 23px;
+  font-weight: 900;
+  line-height: 27.84px;
+  text-align: left;
+}
+
+
+.custom-button {
+  width: 131px;
+  height: 37px;
+  position: absolute;
+    top: 304px;
+    left: 521px;
+  gap: 0px;
+  border-radius: 8px  ;
+  opacity: 0.75;
+   color: rgba(255, 255, 255, 1);
+  border: 2px solid rgba(255, 255, 255, 1);
+  font-size: 16px; /* Optional: Adjust text size */
+  cursor: pointer; /* Optional: Change cursor to pointer on hover */
+  outline: none; /* Optional: Remove default focus outline */
+  /* color: white; */
+  /* background-color:   rgba(255, 255, 255, 1); */
+
+  text-align: center;
+ 
+
+}
+
+  .explore{
+  text-align: center;
+  padding-top: 8px;
+ 
+  /* width: 92px;  
+   height: 34px;  
+  top: 496px;  
+   left: 8px;   */
+  gap: 0px;
+  opacity: 0px;
+ font-family: Inter;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 16.89px;
+  text-align: center;  
+  /* background-color: #131711;   */
+ /* background: none;   */
+  
+ 
+  
+
+}  
+/* 
+.custom-button:hover {
+  opacity: 1; Optional: Change opacity on hover
+}
+
+.custom-button:focus {
+  outline: none; Optional: Remove outline when button is focused
+} */
+
+
+
+/* Ellipse */
+
+
+.ellipse {
+  width: 64px;
+height: 64px;
+ 
+margin-top: 481px;
+margin-left: 315px;
+gap: 0px;
+border-radius: 12px  ;
+opacity: 0.75px;
+border: 2px solid rgba(255, 255, 255, 1);
+
+
+
+}
